@@ -1,3 +1,3 @@
 # Ms-Node-framework2
 Vertical MVC node framework
-is usefull for huge projects
+is useful for huge projects
